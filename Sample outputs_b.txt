@@ -1,0 +1,26 @@
+Output for sample input 1:
+
+Woman   Man
+4 	 0
+5 	 3
+6 	 2
+7 	 1
+The time of execution of above program is : 1.0008811950683594 ms
+
+Output for Sample input 2:
+
+Woman   Man
+4 	 0
+5 	 1
+6 	 3
+7 	 2
+The time of execution of above program is : 1.0173320770263672 ms
+
+Output for Sample input 3:
+
+Woman   Man
+4 	 1
+5 	 3
+6 	 0
+7 	 2
+The time of execution of above program is : 0.0 ms
